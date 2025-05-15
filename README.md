@@ -13,3 +13,15 @@ Este repositorio contiene una guía rápida y sencilla para comenzar a usar GitH
 
 ## 4. Instalar y configurar Git
 
+## 5. Conectar proyecto local con GitHub
+
+## 6. Subir archivos al repositorio
+
+## 7. Actualizar cambios desde GitHub
+
+## 8. Crear y usar ramas
+
+## 9. Colaboración básica
+
+## 10. Buenas prácticas
+
