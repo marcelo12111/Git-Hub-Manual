@@ -1,7 +1,7 @@
 # Manual Básico de Uso de GitHub
 
 ¡Bienvenido!  
-Este repositorio contiene una guía rápida y sencilla para comenzar a usar GitHub, ideal para principiantes. Aquí aprenderás desde cómo crear una cuenta hasta cómo colaborar con otros.
+Este repositorio contiene una guía rápida para comenzar a usar GitHub. Aquí aprenderás desde cómo crear una cuenta hasta cómo colaborar con otros.
 
 ---
 
@@ -25,3 +25,7 @@ Este repositorio contiene una guía rápida y sencilla para comenzar a usar GitH
 
 ## 10. Buenas prácticas
 
+
+Autores:
+-Marcelo Ramos
+-Victor 
