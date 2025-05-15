@@ -12,7 +12,11 @@
 - ---
 
 ## 2. Crear una cuenta en GitHub
-
+1. Ve a [https://github.com](https://github.com)
+2. Haz clic en "Sign up"
+3. Ingresa usuario, email y contraseña
+4. Verifica tu email
+5. Opcional: personaliza tu perfil
 ---
 
 ## 3. Crear un repositorio desde la web
@@ -27,7 +31,11 @@
 ---
 
 ## 4. Subir archivos a GitHub (modo web)
-
+1. Entra a tu repositorio
+2. Clic en "Add file" > "Upload files"
+3. Arrastra los archivos o selecciona desde tu dispositivo
+4. Añade un mensaje de commit
+5. Haz clic en "Commit changes"
 
 ---
 
